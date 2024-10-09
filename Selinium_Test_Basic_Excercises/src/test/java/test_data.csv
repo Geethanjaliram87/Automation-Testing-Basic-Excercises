@@ -1,0 +1,4 @@
+username,password,expectedResult
+testuser1,password1,Login Successful
+testuser2,password2,Login Failed
+testuser3,password3,Login Successful
